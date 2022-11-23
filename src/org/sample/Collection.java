@@ -7,7 +7,12 @@ public class Collection {
 		int b =2;
 		System.out.println("non para cons");
 		System.out.println(a+" "+b);
+<<<<<<< HEAD
 		System.out.println("New Branch is Mani");
+=======
+		
+		System.out.println("New Branch is Aravindh");
+>>>>>>> ce87ced75dfe5dff9c503428e0e0d6bea39519e4
 	}
 	Collection(int y,int z){
 		System.out.println("para cons");
